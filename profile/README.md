@@ -1,1 +1,3 @@
-# TESTE DE PROFILE
+#O que é?
+
+UAISO foi Desenvolvida especificamente para atender às necessidades das empresas do setor de telecomunicões, essa distribuição Linux baseada no Arch Linux oferece uma experiência fácil e intuitiva para usuários sem conhecimento de Linux. Com um repositório próprio, atualizações programadas e uma trilha de versões (dev, testing, stable), garante estabilidade e segurança. Utiliza a interface gráfica Plasma da KDE, tornando a navegação pelo sistema ainda mais fácil. Com ela, as empresas do setor de provedor de internet podem se concentrar no que realmente importa: fornecer um excelente serviço aos seus clientes.

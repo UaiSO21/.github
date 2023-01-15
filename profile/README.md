@@ -1,5 +1,3 @@
-![](https://github.com/UaiSO21/.github/blob/main/uai-so-github.png)
-
 # O que é UAISO?
 
 **UAISO** foi desenvolvida especificamente para atender às necessidades das empresas do setor de telecomunicões, essa distribuição Linux baseada no Arch Linux oferece uma experiência fácil e intuitiva para usuários sem conhecimento de Linux.

@@ -1,6 +1,6 @@
 # O que é UAISO?
 
-**UAISO** foi desenvolvida especificamente para atender às necessidades das empresas do setor de telecomunicões, essa distribuição Linux baseada no Arch Linux oferece uma experiência fácil e intuitiva para usuários sem conhecimento de Linux.
+**UAISO** foi desenvolvido especificamente para atender às necessidades das empresas do setor de telecomunicões, essa distribuição Linux baseada no Arch Linux oferece uma experiência fácil e intuitiva para usuários sem conhecimento de Linux.
 
 Com um repositório próprio, atualizações programadas e uma trilha de versões (dev, testing, stable), garante estabilidade e segurança. 
 

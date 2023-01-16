@@ -8,7 +8,7 @@ Utiliza a interface gráfica Plasma, tornando a navegação pelo sistema ainda m
 
 Com 28 anos de experiência no segmento, entendemos bem as necessidades dos CallCenters, dos Atendimentos de Loja, do Suporte Técnico de Campo e das outras Operações que envolvem o mercado de ISP.
 
-## O UAISO é rolling release?
+## É rolling release?
 
 Sim, o UAISO é baseado em um sistema de lançamento contínuo, ou "rolling release", o que significa que ele não tem versões fixas e sim atualizações constantes e regulares. Isso permite que os usuários tenham acesso a novos recursos e atualizações de segurança sem precisar fazer upgrades de versão ou reinstalações do sistema. Além disso, o UAISO também tem lançamentos regulares chamados de "Versões Evolves" que adicionam novos recursos e melhorias significativas ao sistema.
 

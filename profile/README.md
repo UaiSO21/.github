@@ -28,3 +28,5 @@ Entre as Versões Evolves, o sistema UAISO continua a receber atualizações reg
 + Dezembro de 2023 - UAISO Evolve Cygnus
 
 Essa é uma lista de lançamentos trimestrais das primeiras quatro versões Evolves do UAISO, com cada uma sendo batizada com o nome de um personagem imaginário que simboliza a inovação e a tecnologia. Cada uma dessas versões incluirá novos recursos e melhorias significativas no sistema, sem interrupções no uso do sistema e sem precisar de reinstalação ou upgrades de versão.
+
+**"UAISO: evoluindo com você"**

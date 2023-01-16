@@ -20,7 +20,7 @@ As Versões Evolves são lançamentos regulares do UAISO que adicionam novos rec
 
 Entre as Versões Evolves, o sistema UAISO continua a receber atualizações regulares de segurança e correções de bugs através de pacotes de atualização. Isso garante que o sistema esteja sempre protegido contra ameaças cibernéticas e esteja funcionando sem problemas. Além disso, os usuários continuam a ter acesso às funcionalidades e recursos existentes no sistema, sem interrupções no uso do sistema. Em resumo, o sistema continua estável e seguro entre as Versões Evolves e os usuários não precisam se preocupar com interrupções no uso do sistema devido a atualizações.
 
-## Existem algum cronograma de lançamento das verses Envolves?
+## Existem algum cronograma de Envolves?
 
 + Março de 2023 - UAISO Evolve Orion
 + Junho de 2023 - UAISO Evolve Nova

@@ -33,7 +33,7 @@ Essa é uma lista de lançamentos trimestrais das primeiras quatro versões Evol
 
 Todos os nomes para as versões Evolves tem uma fábula para aproximar as pessoas, evolver a comunidade e inspirar seus usuários e colaboradores. 
 
-### A ESTÓRIA DE ORION
+### A HISTÓRIA DE ORION
 
 A história de Orion e o UAISO Evolve é sobre um homem muito especial chamado Orion. Orion era um cientista muito inteligente e trabalhava em uma equipe de outros cientistas incríveis. Eles estavam sempre em busca de criar coisas novas e incríveis para ajudar as pessoas no mundo inteiro.
 

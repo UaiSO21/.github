@@ -12,11 +12,11 @@ Com 28 anos de experiência no segmento, entendemos bem as necessidades dos Call
 
 Sim, o UAISO é baseado em um sistema de lançamento contínuo, ou "rolling release", o que significa que ele não tem versões fixas e sim atualizações constantes e regulares. Isso permite que os usuários tenham acesso a novos recursos e atualizações de segurança sem precisar fazer upgrades de versão ou reinstalações do sistema. Além disso, o UAISO também tem lançamentos regulares chamados de "Versões Evolves" que adicionam novos recursos e melhorias significativas ao sistema.
 
-## O que são exatamente as Verses Evolves?
+## O que são exatamente as Evolves?
 
 As Versões Evolves são lançamentos regulares do UAISO que adicionam novos recursos e melhorias significativas ao sistema. Elas são batizadas com o nome de personagens imaginários que simbolizam a inovação e a tecnologia. Cada versão Evolve é projetada para fornecer aos usuários a experiência mais avançada possível, e é lançada a cada trimestre. Elas incluem melhorias na funcionalidade, correções de bugs, novos recursos, melhorias de desempenho e atualizações de segurança, sem precisar de reinstalação ou upgrades de versão.
 
-## Como fica o sistema nos intervalos entre as verses Evolves?
+## Como fica o sistema nos intervalos entre as versões Evolves?
 
 Entre as Versões Evolves, o sistema UAISO continua a receber atualizações regulares de segurança e correções de bugs através de pacotes de atualização. Isso garante que o sistema esteja sempre protegido contra ameaças cibernéticas e esteja funcionando sem problemas. Além disso, os usuários continuam a ter acesso às funcionalidades e recursos existentes no sistema, sem interrupções no uso do sistema. Em resumo, o sistema continua estável e seguro entre as Versões Evolves e os usuários não precisam se preocupar com interrupções no uso do sistema devido a atualizações.
 

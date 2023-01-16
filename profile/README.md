@@ -30,3 +30,16 @@ Entre as Versões Evolves, o sistema UAISO continua a receber atualizações reg
 Essa é uma lista de lançamentos trimestrais das primeiras quatro versões Evolves do UAISO, com cada uma sendo batizada com o nome de um personagem imaginário que simboliza a inovação e a tecnologia. Cada uma dessas versões incluirá novos recursos e melhorias significativas no sistema, sem interrupções no uso do sistema e sem precisar de reinstalação ou upgrades de versão.
 
 **"UAISO: evoluindo com você"**
+
+Todos os nomes para as versões Evolves tem uma fábula para aproximar as pessoas, evolver a comunidade e inspirar seus usuários e colaboradores. 
+
+### A ESTÓRIA DE ORION
+
+A história de Orion e o UAISO Evolve é sobre um homem muito especial chamado Orion. Orion era um cientista muito inteligente e trabalhava em uma equipe de outros cientistas incríveis. Eles estavam sempre em busca de criar coisas novas e incríveis para ajudar as pessoas no mundo inteiro.
+
+Um dia, Orion e sua equipe tiveram uma ideia incrível. Eles queriam criar um sistema operacional muito especial chamado UAISO Evolve. Este sistema operacional seria diferente de tudo o que já existia, pois ele seria baseado em Rolling release, com uma filosofia de "Keep It Simple" (Mantenha simples) e personalização, como o Arch Linux.
+
+Orion e sua equipe trabalharam muito duro para criar esse sistema operacional incrível. Eles testaram e ajustaram e finalmente lançaram o UAISO Evolve ao mundo. E foi um grande sucesso! As pessoas amavam o novo sistema operacional e estavam felizes com as novas coisas que podiam fazer com ele.
+
+A moral da história é que, assim como Orion e sua equipe, nunca devemos desistir de buscar inovação e evolução, sempre devemos trabalhar duro e acreditar no sucesso.
+

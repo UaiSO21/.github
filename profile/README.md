@@ -1,3 +1,5 @@
+[![name](https://img.shields.io/github/license/AdisonCavani/distro-grub-themes)](https://github.com/AdisonCavani/distro-grub-themes/blob/master/LICENSE)
+
 # O que é UAISO?
 
 **UAISO** foi desenvolvido especificamente para atender às necessidades das empresas do setor de telecomunicões, essa distribuição Linux baseada no Arch Linux oferece uma experiência fácil e intuitiva para usuários sem conhecimento de Linux.

@@ -1,4 +1,4 @@
-[![name](https://img.shields.io/github/license/AdisonCavani/distro-grub-themes)](https://github.com/AdisonCavani/distro-grub-themes/blob/master/LICENSE)
+[![name](https://img.shields.io/github/license/UaiSO21/.github)](https://github.com/UaiSO21/.github/blob/main/LICENSE)
 
 # O que é UAISO?
 
